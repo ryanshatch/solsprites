@@ -1,0 +1,23 @@
+{
+  "name": "SolSprites",
+  "symbol": "SPRITE",
+  "description": "333 Elemental entities shaped at the edge of energy and form. Each sprite was designed as a focused fragment of force, blending elements, aura, color, and motion into a small but intentional presence. Together they breathe life into a living digital ecosystem built around evolving web3 utility.",
+  "seller_fee_basis_points": 1000,
+  "image": "collection.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FXDWzy6fdmADnHPME1wiifyX3H4gGnMAt8ncGTbiaoVw",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://zencrypt.tech"
+}
